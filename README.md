@@ -1,2 +1,2 @@
-# homework
+# homework Magda
 Task in pairs
